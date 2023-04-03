@@ -1,0 +1,7 @@
+nltk
+matplotlib
+numpy
+pytrec_eval
+string
+sklearn
+gensim
